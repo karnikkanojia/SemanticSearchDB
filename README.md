@@ -1,12 +1,12 @@
-Sure, here's a README for your FastAPI server codebase:
+
 
 # FastAPI Semantic Search Server
-
 ![Python](https://img.shields.io/badge/Python-3.7%20%7C%203.8%20%7C%203.9-blue)
 ![License](https://img.shields.io/github/license/karnikkanojia/SemanticSearchDB)
 
 This repository contains a FastAPI server for performing semantic search and question-answering tasks using pre-trained language models and document embeddings. It leverages several NLP libraries and models to provide efficient and accurate results.
 
+![](assets/main.webp)
 ## Table of Contents
 
 - [FastAPI Semantic Search Server](#fastapi-semantic-search-server)
