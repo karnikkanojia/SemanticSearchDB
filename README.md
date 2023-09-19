@@ -52,7 +52,7 @@ Before using this server, ensure you have the following prerequisites:
 To install the required packages, you can use `pip`:
 
 ```bash
-pip install fastapi torch langchain
+pip install fastapi torch langchain sentence-transformers faiss-cpu numpy psutil matplotlib
 ```
 
 ## Usage
