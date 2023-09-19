@@ -62,7 +62,7 @@ To use the FastAPI Semantic Search Server, follow these steps:
 1. Clone this repository and navigate to the project directory:
 
 ```bash
-git clone https://github.com/your/repo.git
+git clone https://github.com/karnikkanojia/SemanticSearchDB.git
 cd repo-directory
 ```
 
