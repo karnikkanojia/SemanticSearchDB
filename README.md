@@ -87,6 +87,10 @@ The server's configuration and models can be set up in the `startup_event` funct
 
 You can customize the document loading, splitting, and model setup to fit your specific use case.
 
+Setup ```.env```
+
+```HUGGINGFACEHUB_API_TOKEN=<TOKEN>```
+
 ## Endpoints
 
 The server exposes the following API endpoints:
